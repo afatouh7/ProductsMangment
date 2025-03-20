@@ -1,0 +1,11 @@
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.deps.json
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.dll
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.pdb
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfoInputs.cache
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfo.cs
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.dll
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\refint\ProductManagement.Core.dll
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.pdb
+C:\Users\pcc\source\repos\ProductManagement\ProductManagement.Core\obj\Debug\net8.0\ref\ProductManagement.Core.dll
